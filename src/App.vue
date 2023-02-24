@@ -86,7 +86,7 @@ input {
   align-items: center;
   position: absolute;
   top: 280px;
-  left: 37%;
+  left: 40%;
 }
 
 .col-3 > button {
